@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "イノチミジカシコイセヨオトメ",
+  "base_artist": "クリープハイプ",
+  "createdAt": "2026-02-10T12:07:39.479987Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "イノチミジカシコイセヨオトメ",
+      "artist": "クリープハイプ",
+      "has_synced": true,
+      "path": "select/01_イノチミジカシコイセヨオトメ_クリープハイプ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "イノチミジカシコイセヨオトメ - Inochi Mijikashi Koiseyo Otome",
+      "artist": "CreepHyp",
+      "has_synced": true,
+      "path": "select/02_イノチミジカシコイセヨオトメ_-_Inochi_Mijikashi_Koiseyo_Otome_CreepHyp.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "イノチミジカシコイセヨオトメ",
+      "artist": "Creep Hyp",
+      "has_synced": true,
+      "path": "select/03_イノチミジカシコイセヨオトメ_Creep_Hyp.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "イノチミジカシコイセヨオトメ",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_01_イノチミジカシコイセヨオトメ_クリープハイプ.txt"
+    }
+  ]
+}
